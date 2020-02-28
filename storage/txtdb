@@ -1,0 +1,17 @@
+[metadata]
+person_db
+UTF-8
+1582794435370
+1582794435370
+1582794435370
+[metadata]
+[entity.person]
+name,string,100
+age,int,3
+gender,char,1
+like_animal,bool,
+[entity.person]
+[data.person]
+Alex                                                                                               20 MT
+Jane                                                                                               8  FT  
+[data.person]
